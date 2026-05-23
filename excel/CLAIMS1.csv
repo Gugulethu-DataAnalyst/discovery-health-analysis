@@ -1,0 +1,1001 @@
+MEMBER_ID,GENDER,AGE,PLAN_TYPE,REGION,AMOUNT_CLAIMED_NUMERIC,AMOUNT_PAID_NUMERIC
+M00001,Male,56,Essential,"Western Cape",1168.88,1117.00
+M00002,Female,69,KeyCare,"Eastern Cape",1394.56,1019.00
+M00003,Male,46,KeyCare,KZN,1771.05,1495.00
+M00004,Female,32,Essential,"Eastern Cape",1645.33,1486.00
+M00005,Male,60,Essential,KZN,900.59,896.00
+M00006,Male,25,Classic,KZN,2137.11,1665.00
+M00007,Female,38,KeyCare,Gauteng,1488.29,1068.00
+M00008,Male,56,Classic,Gauteng,1261.29,1044.00
+M00009,Male,36,KeyCare,"Eastern Cape",924.66,778.00
+M00010,Male,40,Essential,Gauteng,1223.79,1067.00
+M00011,Male,28,Essential,Gauteng,1398.03,1095.00
+M00012,Male,28,Essential,Gauteng,1345.46,1200.00
+M00013,Male,41,Classic,"Eastern Cape",1448.32,1404.00
+M00014,Female,70,Classic,"Western Cape",2610.65,2142.00
+M00015,Male,53,Classic,Gauteng,870.69,818.00
+M00016,Male,57,Classic,Gauteng,1309.29,1227.00
+M00017,Female,41,Essential,"Eastern Cape",1718.07,1203.00
+M00018,Female,20,Classic,"Western Cape",683.99,509.00
+M00019,Female,39,Classic,UNKOWN,2005.13,1462.00
+M00020,Female,70,KeyCare,KZN,1852.94,1680.00
+M00021,Female,19,KeyCare,"Eastern Cape",1335.23,942.00
+M00022,Female,41,KeyCare,Gauteng,2027.46,1778.00
+M00023,Female,61,KeyCare,Gauteng,1687.41,1577.00
+M00024,Male,47,Classic,KZN,1884.95,1874.00
+M00025,Male,55,Classic,KZN,2027.95,1598.00
+M00026,Female,19,Essential,"Eastern Cape",742.04,590.00
+M00027,Male,38,Essential,"Eastern Cape",2350.20,1799.00
+M00028,Male,50,Classic,KZN,761.95,593.00
+M00029,Male,29,KeyCare,"Eastern Cape",1145.96,1051.00
+M00030,Female,39,Classic,KZN,1922.85,1663.00
+M00031,Female,61,Classic,Gauteng,1389.10,1094.00
+M00032,Male,42,Essential,KZN,1076.39,807.00
+M00033,Female,66,Essential,KZN,806.12,802.00
+M00034,Male,44,Essential,"Western Cape",787.24,592.00
+M00035,Male,59,Classic,KZN,768.41,708.00
+M00036,Male,45,KeyCare,KZN,1897.37,1889.00
+M00037,Male,33,Classic,"Western Cape",994.93,975.00
+M00038,Female,32,Classic,"Eastern Cape",1522.83,1211.00
+M00039,Female,64,KeyCare,"Western Cape",882.33,687.00
+M00040,Female,68,KeyCare,Gauteng,1565.07,1192.00
+M00041,Male,61,KeyCare,"Western Cape",1337.81,1331.00
+M00042,Female,72,KeyCare,Gauteng,1029.47,922.00
+M00043,Male,69,Essential,"Eastern Cape",471.20,427.00
+M00044,Female,74,Essential,"Western Cape",1208.89,1181.00
+M00045,Male,20,Classic,"Western Cape",789.33,789.00
+M00046,Male,54,Essential,"Eastern Cape",105.17,93.00
+M00047,Male,68,Classic,Gauteng,1053.48,1046.00
+M00048,Female,24,Classic,"Western Cape",1355.00,1310.00
+M00049,Female,38,Essential,Gauteng,1209.76,913.00
+M00050,Female,26,Essential,"Western Cape",1182.05,1141.00
+M00051,Female,56,Classic,KZN,1325.70,1043.00
+M00052,Male,35,Classic,"Western Cape",2182.66,1601.00
+M00053,Female,21,Essential,"Eastern Cape",1848.36,1751.00
+M00054,Female,42,Classic,"Eastern Cape",842.00,777.00
+M00055,Male,31,KeyCare,Gauteng,1111.29,975.00
+M00056,Male,67,Essential,"Western Cape",911.55,744.00
+M00057,Male,26,Essential,Gauteng,312.56,291.00
+M00058,Female,43,Essential,Gauteng,-132.27,-93.00
+M00059,Uknown,70,KeyCare,UNKOWN,1606.00,1141.00
+M00060,Male,19,Classic,KZN,934.65,712.00
+M00061,Male,37,Essential,"Eastern Cape",1012.46,901.00
+M00062,Female,45,Essential,Gauteng,1296.85,1041.00
+M00063,Male,64,Classic,"Eastern Cape",766.98,609.00
+M00064,Female,24,KeyCare,"Western Cape",1276.52,1270.00
+M00065,Female,61,Essential,Gauteng,1424.93,1024.00
+M00066,Male,25,Essential,Gauteng,548.27,441.00
+M00067,Male,64,KeyCare,"Western Cape",1531.44,1289.00
+M00068,Female,52,KeyCare,"Western Cape",1285.59,923.00
+M00069,Male,31,Essential,"Eastern Cape",767.69,550.00
+M00070,Male,34,KeyCare,"Eastern Cape",897.38,754.00
+M00071,Female,53,Essential,"Western Cape",389.72,350.00
+M00072,Female,67,Essential,"Eastern Cape",1593.68,1516.00
+M00073,Male,57,Essential,"Western Cape",1220.67,1176.00
+M00074,Uknown,21,Essential,Gauteng,1761.36,1351.00
+M00075,Male,19,Classic,Gauteng,1697.35,1356.00
+M00076,Male,23,KeyCare,KZN,1158.65,960.00
+M00077,Male,71,KeyCare,Gauteng,1806.21,1649.00
+M00078,Female,59,Classic,"Western Cape",1396.44,1208.00
+M00079,Male,21,KeyCare,"Eastern Cape",2439.22,1990.00
+M00080,Male,71,Classic,KZN,426.27,397.00
+M00081,Male,46,Classic,"Eastern Cape",791.58,716.00
+M00082,Female,35,Essential,"Western Cape",1258.81,905.00
+M00083,Female,43,Classic,Gauteng,672.95,595.00
+M00084,Female,61,KeyCare,KZN,214.49,187.00
+M00085,Female,51,KeyCare,UNKOWN,1361.49,1136.00
+M00086,Female,27,Essential,KZN,1804.63,1378.00
+M00087,Male,53,Classic,KZN,565.45,457.00
+M00088,Female,31,Classic,UNKOWN,2195.68,1551.00
+M00089,Female,48,Essential,"Western Cape",1357.54,1051.00
+M00090,Female,65,KeyCare,"Eastern Cape",1829.03,1660.00
+M00091,Male,32,Essential,KZN,882.72,759.00
+M00092,Female,25,Classic,KZN,1095.20,947.00
+M00093,Female,31,Essential,"Eastern Cape",624.09,520.00
+M00094,Male,40,Essential,"Western Cape",233.54,198.00
+M00095,Female,74,Essential,KZN,1752.52,1489.00
+M00096,Male,57,Classic,KZN,1190.65,1066.00
+M00097,Male,38,Essential,KZN,974.33,908.00
+M00098,Male,33,Essential,UNKOWN,590.63,515.00
+M00099,Male,62,KeyCare,"Western Cape",512.21,445.00
+M00100,Male,35,Classic,UNKOWN,1556.66,1230.00
+M00101,Female,64,Essential,"Western Cape",378.92,292.00
+M00102,Male,70,KeyCare,"Western Cape",1568.45,1526.00
+M00103,Male,41,Classic,Gauteng,1011.69,770.00
+M00104,Female,43,KeyCare,"Eastern Cape",744.31,591.00
+M00105,Male,42,Essential,KZN,1751.67,1362.00
+M00106,Female,62,Classic,"Western Cape",1735.54,1261.00
+M00107,Female,58,Classic,KZN,1798.67,1440.00
+M00108,Female,46,Essential,KZN,1858.67,1323.00
+M00109,Male,32,Classic,Gauteng,1192.13,885.00
+M00110,Male,62,Essential,"Western Cape",-55.00,-40.00
+M00111,Male,18,Classic,"Eastern Cape",951.82,893.00
+M00112,Female,42,Essential,"Western Cape",945.31,764.00
+M00113,Male,24,Classic,KZN,1621.26,1535.00
+M00114,Male,26,KeyCare,"Eastern Cape",1693.45,1579.00
+M00115,Male,41,KeyCare,"Western Cape",733.66,522.00
+M00116,Female,18,KeyCare,KZN,1100.52,1045.00
+M00117,Female,61,Essential,KZN,1166.76,1026.00
+M00118,Male,25,Classic,Gauteng,1489.19,1184.00
+M00119,Male,41,Essential,Gauteng,2113.33,1572.00
+M00120,Male,28,Classic,Gauteng,988.12,905.00
+M00121,Male,68,Classic,KZN,1309.70,1209.00
+M00122,Female,34,Classic,"Western Cape",638.36,568.00
+M00123,Female,25,Essential,UNKOWN,592.51,418.00
+M00124,Female,52,Essential,"Western Cape",800.78,708.00
+M00125,Female,52,Essential,Gauteng,626.41,506.00
+M00126,Male,50,Essential,"Eastern Cape",1447.04,1379.00
+M00127,Male,22,Classic,"Eastern Cape",477.59,456.00
+M00128,Male,59,KeyCare,Gauteng,1111.14,872.00
+M00129,Female,56,Essential,KZN,1293.59,1194.00
+M00130,Male,58,Essential,Gauteng,1632.68,1158.00
+M00131,Uknown,45,Classic,Gauteng,1409.41,1251.00
+M00132,Uknown,24,Essential,KZN,168.89,165.00
+M00133,Male,26,Essential,"Eastern Cape",1881.81,1727.00
+M00134,Male,25,Classic,"Western Cape",1705.77,1660.00
+M00135,Male,29,Classic,Gauteng,1024.15,867.00
+M00136,Female,51,Essential,KZN,1314.69,1000.00
+M00137,Male,50,Essential,Gauteng,1347.90,1101.00
+M00138,Female,65,Classic,KZN,689.84,542.00
+M00139,Male,72,KeyCare,"Western Cape",2106.59,1731.00
+M00140,Female,40,Classic,"Western Cape",1306.32,1022.00
+M00141,Uknown,41,Essential,"Eastern Cape",1337.66,1137.00
+M00142,Male,54,KeyCare,KZN,1364.94,991.00
+M00143,Female,52,Essential,KZN,1436.57,1159.00
+M00144,Female,61,Essential,"Eastern Cape",1126.75,1124.00
+M00145,Male,57,Classic,"Eastern Cape",550.34,473.00
+M00146,Female,39,Classic,KZN,1032.18,922.00
+M00147,Male,44,KeyCare,"Eastern Cape",1398.83,1271.00
+M00148,Female,52,Essential,"Western Cape",1477.08,1281.00
+M00149,Male,18,KeyCare,Gauteng,1294.47,1254.00
+M00150,Male,52,Classic,"Western Cape",1740.83,1649.00
+M00151,Female,54,Classic,"Eastern Cape",1132.16,900.00
+M00152,Female,64,Classic,KZN,777.84,574.00
+M00153,Female,31,Essential,KZN,489.59,351.00
+M00154,Female,20,Classic,"Western Cape",2299.95,2204.00
+M00155,Female,18,KeyCare,KZN,2195.33,2148.00
+M00156,Male,22,Essential,"Eastern Cape",1040.58,838.00
+M00157,Female,43,KeyCare,"Western Cape",-81.99,-71.00
+M00158,Male,72,Classic,KZN,1233.03,1150.00
+M00159,Male,31,KeyCare,Gauteng,1022.54,1015.00
+M00160,Female,56,Essential,Gauteng,397.22,360.00
+M00161,Male,44,Essential,"Eastern Cape",1224.84,859.00
+M00162,Male,26,KeyCare,KZN,1593.37,1172.00
+M00163,Male,32,Essential,"Eastern Cape",1390.37,1348.00
+M00164,Male,32,Essential,"Western Cape",1194.82,961.00
+M00165,Female,43,Classic,Gauteng,459.53,345.00
+M00166,Male,59,Classic,"Western Cape",1621.24,1351.00
+M00167,Female,30,KeyCare,KZN,1319.26,1013.00
+M00168,Female,68,Essential,"Eastern Cape",1559.64,1354.00
+M00169,Uknown,49,Essential,"Eastern Cape",1081.66,971.00
+M00170,Female,56,Essential,"Eastern Cape",1221.25,998.00
+M00171,Female,66,Classic,"Western Cape",749.27,587.00
+M00172,Female,69,Classic,Gauteng,1389.80,1181.00
+M00173,Male,49,Essential,"Western Cape",918.13,874.00
+M00174,Female,21,Essential,"Western Cape",1219.82,1024.00
+M00175,Female,47,Classic,KZN,1506.60,1408.00
+M00176,Female,54,Essential,KZN,720.58,586.00
+M00177,Male,40,Classic,KZN,883.13,823.00
+M00178,Female,56,Essential,Gauteng,1039.12,812.00
+M00179,Male,62,Classic,Gauteng,1388.80,1030.00
+M00180,Male,32,Essential,KZN,1477.19,1287.00
+M00181,Male,60,Classic,KZN,1143.72,812.00
+M00182,Male,46,Essential,Gauteng,642.29,523.00
+M00183,Male,53,Classic,"Eastern Cape",1777.24,1664.00
+M00184,Male,30,Classic,Gauteng,1299.72,1279.00
+M00185,Female,49,Classic,Gauteng,1613.98,1426.00
+M00186,Male,24,Essential,Gauteng,1044.61,1032.00
+M00187,Female,68,Essential,KZN,942.95,681.00
+M00188,Uknown,39,Classic,"Eastern Cape",632.77,464.00
+M00189,Male,45,Essential,Gauteng,717.91,517.00
+M00190,Female,19,KeyCare,KZN,594.96,585.00
+M00191,Female,59,Essential,"Western Cape",1027.81,839.00
+M00192,Female,62,Classic,"Western Cape",1673.45,1278.00
+M00193,Female,74,Essential,Gauteng,969.18,848.00
+M00194,Male,70,Classic,"Western Cape",1273.28,1257.00
+M00195,Female,23,Classic,UNKOWN,546.03,489.00
+M00196,Male,45,KeyCare,"Western Cape",1581.01,1480.00
+M00197,Female,45,Classic,"Western Cape",1388.73,1314.00
+M00198,Female,61,Essential,"Eastern Cape",1770.83,1676.00
+M00199,Male,61,Essential,Gauteng,1726.00,1568.00
+M00200,Female,37,Essential,Gauteng,701.99,606.00
+M00201,Female,47,Essential,"Eastern Cape",831.36,590.00
+M00202,Female,28,Classic,"Eastern Cape",842.80,820.00
+M00203,Male,72,Classic,"Eastern Cape",1444.30,1057.00
+M00204,Female,45,Essential,"Western Cape",38.36,32.00
+M00205,Male,42,Classic,"Eastern Cape",1205.19,1193.00
+M00206,Female,56,Classic,KZN,303.89,261.00
+M00207,Male,50,Classic,"Western Cape",1245.43,1234.00
+M00208,Male,18,Classic,Gauteng,2018.19,2014.00
+M00209,Female,74,Classic,Gauteng,1053.20,922.00
+M00210,Female,44,Classic,Gauteng,476.74,437.00
+M00211,Male,74,Essential,"Western Cape",1405.73,1340.00
+M00212,Male,69,Essential,KZN,409.63,405.00
+M00213,Female,30,KeyCare,"Eastern Cape",902.09,821.00
+M00214,Male,58,Classic,"Eastern Cape",470.65,363.00
+M00215,Female,20,Classic,Gauteng,887.35,795.00
+M00216,Uknown,56,Classic,Gauteng,1140.18,803.00
+M00217,Female,23,Essential,"Western Cape",2011.26,1791.00
+M00218,Female,25,Essential,KZN,562.84,406.00
+M00219,Male,44,Classic,"Eastern Cape",1657.92,1412.00
+M00220,Female,26,KeyCare,"Western Cape",1928.67,1835.00
+M00221,Male,54,Classic,"Eastern Cape",1421.37,1217.00
+M00222,Female,50,Essential,Gauteng,1712.21,1543.00
+M00223,Male,68,Essential,"Eastern Cape",1137.50,906.00
+M00224,Female,59,KeyCare,KZN,465.94,329.00
+M00225,Male,61,Essential,KZN,1633.69,1443.00
+M00226,Male,41,KeyCare,Gauteng,1125.87,903.00
+M00227,Female,32,Classic,KZN,1277.09,1269.00
+M00228,Female,71,KeyCare,KZN,782.19,705.00
+M00229,Female,49,Classic,"Western Cape",1948.79,1640.00
+M00230,Female,49,KeyCare,"Eastern Cape",886.05,778.00
+M00231,Male,41,Essential,Gauteng,1102.53,934.00
+M00232,Female,58,KeyCare,Gauteng,1914.60,1904.00
+M00233,Male,69,Essential,Gauteng,593.24,514.00
+M00234,Male,66,Essential,Gauteng,1045.86,864.00
+M00235,Female,66,Essential,Gauteng,914.29,804.00
+M00236,Male,69,Essential,KZN,1494.72,1196.00
+M00237,Male,29,Classic,"Western Cape",1349.01,1039.00
+M00238,Male,56,Classic,UNKOWN,-179.59,-132.00
+M00239,Male,19,Classic,"Western Cape",1095.99,1023.00
+M00240,Female,20,Classic,"Western Cape",1515.20,1308.00
+M00241,Female,66,KeyCare,KZN,623.66,509.00
+M00242,Female,54,Classic,Gauteng,1312.14,1156.00
+M00243,Female,66,KeyCare,KZN,1242.21,1141.00
+M00244,Male,73,Classic,Gauteng,1191.97,855.00
+M00245,Male,34,Classic,KZN,422.90,375.00
+M00246,Female,66,Essential,"Western Cape",1757.71,1515.00
+M00247,Female,19,Essential,Gauteng,535.34,534.00
+M00248,Female,19,Essential,"Eastern Cape",523.73,373.00
+M00249,Male,45,Essential,"Western Cape",1537.85,1198.00
+M00250,Uknown,71,Essential,"Eastern Cape",1409.69,1273.00
+M00251,Female,40,Classic,"Western Cape",804.45,618.00
+M00252,Female,54,KeyCare,KZN,1246.81,883.00
+M00253,Male,49,KeyCare,Gauteng,437.62,382.00
+M00254,Male,50,Essential,"Western Cape",541.20,432.00
+M00255,Male,18,Classic,KZN,880.90,821.00
+M00256,Male,36,Essential,Gauteng,1853.09,1475.00
+M00257,Uknown,19,Classic,Gauteng,1774.60,1383.00
+M00258,Male,70,Classic,"Western Cape",1658.29,1489.00
+M00259,Male,61,Classic,Gauteng,973.64,811.00
+M00260,Male,43,Essential,"Western Cape",1220.63,1173.00
+M00261,Female,49,KeyCare,Gauteng,331.52,290.00
+M00262,Female,23,Essential,"Eastern Cape",1010.83,747.00
+M00263,Male,49,Essential,KZN,1389.47,1105.00
+M00264,Male,72,Essential,"Eastern Cape",232.93,222.00
+M00265,Female,21,Classic,"Western Cape",736.33,616.00
+M00266,Male,72,Classic,"Eastern Cape",959.59,852.00
+M00267,Male,28,KeyCare,"Western Cape",1336.70,946.00
+M00268,Male,73,Classic,Gauteng,1909.94,1553.00
+M00269,Female,34,KeyCare,Gauteng,1034.70,829.00
+M00270,Female,55,Essential,"Western Cape",1873.51,1608.00
+M00271,Female,41,Essential,"Eastern Cape",1069.48,961.00
+M00272,Female,22,Essential,Gauteng,1061.07,801.00
+M00273,Female,69,Essential,KZN,1581.98,1285.00
+M00274,Male,51,KeyCare,Gauteng,1463.88,1259.00
+M00275,Female,23,KeyCare,KZN,909.77,818.00
+M00276,Male,39,Essential,"Eastern Cape",1162.35,891.00
+M00277,Uknown,28,Classic,KZN,1055.29,961.00
+M00278,Female,65,Essential,KZN,1188.72,1004.00
+M00279,Female,33,KeyCare,KZN,1514.92,1179.00
+M00280,Male,50,Classic,KZN,1367.80,1344.00
+M00281,Uknown,26,Essential,Gauteng,1322.40,1083.00
+M00282,Male,23,Essential,KZN,1422.53,1134.00
+M00283,Female,33,Essential,Gauteng,1328.11,1269.00
+M00284,Female,46,Classic,KZN,1173.81,925.00
+M00285,Female,20,Essential,"Western Cape",1034.85,764.00
+M00286,Female,37,KeyCare,"Eastern Cape",1673.42,1672.00
+M00287,Female,53,Classic,KZN,1283.63,1069.00
+M00288,Male,36,Classic,"Western Cape",1068.31,1049.00
+M00289,Female,43,KeyCare,KZN,1928.67,1733.00
+M00290,Male,20,Classic,KZN,1461.17,1316.00
+M00291,Male,36,KeyCare,KZN,990.62,696.00
+M00292,Male,37,Essential,"Western Cape",1100.89,1038.00
+M00293,Uknown,49,Classic,"Eastern Cape",1009.81,942.00
+M00294,Female,24,KeyCare,"Western Cape",1361.21,1303.00
+M00295,Female,69,Essential,"Eastern Cape",1394.18,1129.00
+M00296,Male,58,Essential,KZN,353.65,287.00
+M00297,Male,50,Classic,Gauteng,841.49,791.00
+M00298,Male,57,Essential,KZN,1504.59,1318.00
+M00299,Male,56,Classic,"Eastern Cape",410.57,393.00
+M00300,Male,35,Classic,"Western Cape",1296.64,916.00
+M00301,Male,57,KeyCare,KZN,237.95,183.00
+M00302,Female,18,Classic,"Western Cape",324.46,256.00
+M00303,Female,28,Essential,"Western Cape",1091.49,945.00
+M00304,Female,45,Classic,"Western Cape",1113.55,818.00
+M00305,Female,74,Essential,KZN,1693.05,1440.00
+M00306,Uknown,42,Classic,"Western Cape",1459.40,1237.00
+M00307,Male,67,KeyCare,"Western Cape",1071.53,947.00
+M00308,Female,40,Essential,KZN,326.52,326.00
+M00309,Male,48,Classic,"Western Cape",1079.04,1023.00
+M00310,Female,47,Classic,KZN,1631.75,1385.00
+M00311,Female,59,Classic,UNKOWN,1433.64,1330.00
+M00312,Female,52,Essential,"Eastern Cape",1162.84,1120.00
+M00313,Male,24,Classic,"Eastern Cape",1575.56,1469.00
+M00314,Female,33,KeyCare,"Western Cape",1532.87,1130.00
+M00315,Female,43,Essential,Gauteng,201.97,161.00
+M00316,Female,65,Classic,Gauteng,432.03,389.00
+M00317,Male,74,Essential,UNKOWN,1384.99,1344.00
+M00318,Male,69,Essential,Gauteng,643.18,462.00
+M00319,Female,66,Classic,KZN,843.74,597.00
+M00320,Male,19,Classic,Gauteng,1377.36,1254.00
+M00321,Male,18,Classic,"Western Cape",908.00,862.00
+M00322,Male,65,Essential,"Western Cape",1260.27,1005.00
+M00323,Uknown,29,Essential,KZN,777.85,673.00
+M00324,Male,22,Essential,"Eastern Cape",1826.39,1787.00
+M00325,Male,54,KeyCare,"Western Cape",2074.41,1569.00
+M00326,Male,49,KeyCare,KZN,1551.37,1251.00
+M00327,Male,72,Essential,Gauteng,2022.47,1629.00
+M00328,Male,26,KeyCare,Gauteng,1498.27,1413.00
+M00329,Male,58,Classic,KZN,1827.12,1434.00
+M00330,Female,52,Classic,KZN,972.49,796.00
+M00331,Female,36,Classic,"Western Cape",-112.19,-105.00
+M00332,Male,65,Classic,Gauteng,837.76,686.00
+M00333,Uknown,33,Essential,KZN,840.08,793.00
+M00334,Female,20,KeyCare,Gauteng,753.52,721.00
+M00335,Male,37,Classic,KZN,1125.32,1074.00
+M00336,Male,41,Classic,Gauteng,1617.89,1567.00
+M00337,Male,71,Essential,"Eastern Cape",1272.23,935.00
+M00338,Female,73,KeyCare,"Western Cape",1840.33,1828.00
+M00339,Female,50,Classic,Gauteng,1618.26,1574.00
+M00340,Male,41,Essential,UNKOWN,952.34,900.00
+M00341,Male,69,Classic,Gauteng,1297.77,1103.00
+M00342,Male,28,Classic,Gauteng,927.55,909.00
+M00343,Female,66,KeyCare,"Eastern Cape",1565.47,1560.00
+M00344,Female,25,KeyCare,Gauteng,1056.68,772.00
+M00345,Female,53,Classic,Gauteng,597.85,431.00
+M00346,Female,55,KeyCare,"Western Cape",1952.67,1420.00
+M00347,Male,57,Essential,"Eastern Cape",1013.65,732.00
+M00348,Male,37,KeyCare,UNKOWN,777.06,591.00
+M00349,Male,52,Essential,KZN,837.18,824.00
+M00350,Uknown,65,Essential,Gauteng,1331.22,947.00
+M00351,Female,42,Essential,"Western Cape",968.44,863.00
+M00352,Female,52,Essential,Gauteng,127.16,120.00
+M00353,Male,42,Classic,Gauteng,666.49,529.00
+M00354,Male,46,Classic,KZN,1267.33,1165.00
+M00355,Female,35,Classic,Gauteng,844.71,720.00
+M00356,Male,63,Essential,"Western Cape",827.98,719.00
+M00357,Female,35,Classic,"Western Cape",1712.32,1243.00
+M00358,Male,19,Essential,KZN,786.06,785.00
+M00359,Male,71,KeyCare,Gauteng,1009.64,924.00
+M00360,Male,52,Classic,"Western Cape",807.70,682.00
+M00361,Male,33,Essential,Gauteng,1422.47,1100.00
+M00362,Uknown,58,Essential,Gauteng,1612.26,1523.00
+M00363,Male,53,KeyCare,Gauteng,1316.20,1017.00
+M00364,Male,50,Classic,KZN,1419.16,1007.00
+M00365,Female,21,Essential,Gauteng,1966.38,1445.00
+M00366,Female,50,KeyCare,"Western Cape",1778.65,1349.00
+M00367,Female,31,KeyCare,Gauteng,2430.98,1913.00
+M00368,Uknown,38,Essential,"Western Cape",494.80,473.00
+M00369,Female,65,Essential,Gauteng,268.59,255.00
+M00370,Male,37,Essential,"Western Cape",2085.26,1615.00
+M00371,Male,73,KeyCare,"Western Cape",923.34,887.00
+M00372,Female,25,Essential,Gauteng,1113.16,1016.00
+M00373,Male,24,Classic,UNKOWN,1825.83,1550.00
+M00374,Female,20,KeyCare,"Western Cape",730.24,665.00
+M00375,Female,34,Essential,"Eastern Cape",910.53,836.00
+M00376,Male,50,Essential,KZN,1031.39,968.00
+M00377,Male,65,Classic,"Eastern Cape",173.49,123.00
+M00378,Male,29,Essential,"Eastern Cape",1348.57,963.00
+M00379,Female,68,Classic,Gauteng,1235.03,1107.00
+M00380,Male,39,Essential,KZN,1650.40,1474.00
+M00381,Female,72,Classic,"Eastern Cape",688.06,577.00
+M00382,Female,39,Essential,Gauteng,870.78,768.00
+M00383,Female,63,KeyCare,"Eastern Cape",1149.04,1003.00
+M00384,Male,47,Classic,"Eastern Cape",581.44,514.00
+M00385,Male,55,KeyCare,Gauteng,346.45,304.00
+M00386,Female,55,Essential,Gauteng,1380.53,1108.00
+M00387,Male,62,KeyCare,Gauteng,652.18,610.00
+M00388,Male,68,Essential,KZN,1486.76,1246.00
+M00389,Uknown,71,Essential,"Eastern Cape",1402.70,1228.00
+M00390,Female,25,Essential,Gauteng,1238.84,1080.00
+M00391,Female,44,KeyCare,"Western Cape",888.08,756.00
+M00392,Male,44,Essential,"Eastern Cape",1920.15,1809.00
+M00393,Female,51,Classic,"Western Cape",569.08,528.00
+M00394,Male,38,Essential,KZN,1387.43,1101.00
+M00395,Male,47,KeyCare,Gauteng,1468.55,1367.00
+M00396,Male,50,Essential,"Western Cape",1574.06,1388.00
+M00397,Male,45,Essential,KZN,1122.99,913.00
+M00398,Female,64,Essential,Gauteng,879.16,692.00
+M00399,Female,50,KeyCare,"Western Cape",1793.31,1386.00
+M00400,Female,22,Classic,"Western Cape",1976.81,1588.00
+M00401,Male,65,Essential,KZN,1191.09,1051.00
+M00402,Male,36,Classic,Gauteng,1412.19,992.00
+M00403,Male,21,Classic,Gauteng,836.04,591.00
+M00404,Female,52,Classic,"Western Cape",-596.37,-531.00
+M00405,Male,66,Classic,"Western Cape",1090.02,1089.00
+M00406,Female,34,Essential,"Western Cape",1240.29,1146.00
+M00407,Female,61,Classic,Gauteng,1003.77,883.00
+M00408,Female,45,Essential,KZN,1531.16,1135.00
+M00409,Female,47,Classic,KZN,742.26,525.00
+M00410,Female,46,Classic,Gauteng,1549.65,1357.00
+M00411,Female,63,Classic,"Eastern Cape",340.62,315.00
+M00412,Male,70,Classic,KZN,785.40,737.00
+M00413,Male,23,Essential,"Western Cape",582.44,466.00
+M00414,Female,52,Essential,"Eastern Cape",1219.89,874.00
+M00415,Female,58,Essential,UNKOWN,1835.78,1646.00
+M00416,Male,54,Essential,KZN,1519.22,1196.00
+M00417,Female,41,Classic,"Eastern Cape",1250.03,1141.00
+M00418,Female,46,KeyCare,"Eastern Cape",579.18,465.00
+M00419,Male,66,Essential,KZN,1432.15,1399.00
+M00420,Female,63,Essential,KZN,1376.04,1365.00
+M00421,Female,70,Classic,"Eastern Cape",1159.20,1102.00
+M00422,Female,48,Classic,"Western Cape",861.19,660.00
+M00423,Male,52,Classic,Gauteng,777.77,735.00
+M00424,Male,50,Classic,"Eastern Cape",1747.14,1436.00
+M00425,Male,69,Essential,"Eastern Cape",263.62,234.00
+M00426,Female,38,Essential,"Western Cape",612.36,594.00
+M00427,Female,49,Essential,"Eastern Cape",1591.86,1512.00
+M00428,Male,40,Essential,"Eastern Cape",548.26,438.00
+M00429,Uknown,50,KeyCare,Gauteng,838.83,782.00
+M00430,Female,20,Essential,Gauteng,833.83,699.00
+M00431,Female,35,KeyCare,Gauteng,748.70,662.00
+M00432,Female,42,Classic,KZN,1582.65,1581.00
+M00433,Female,59,Classic,KZN,1451.65,1318.00
+M00434,Male,48,Classic,Gauteng,2131.97,1758.00
+M00435,Female,71,Essential,Gauteng,950.79,871.00
+M00436,Male,20,KeyCare,KZN,1862.38,1343.00
+M00437,Female,57,Classic,"Western Cape",1813.05,1633.00
+M00438,Male,63,KeyCare,"Eastern Cape",1545.07,1342.00
+M00439,Female,41,Classic,"Eastern Cape",1014.79,729.00
+M00440,Male,67,KeyCare,Gauteng,711.01,537.00
+M00441,Female,49,Classic,"Western Cape",1103.04,856.00
+M00442,Male,64,Classic,KZN,2071.50,1715.00
+M00443,Female,39,Essential,Gauteng,1027.50,803.00
+M00444,Male,40,Classic,"Western Cape",1172.15,979.00
+M00445,Female,19,Classic,"Western Cape",1579.44,1139.00
+M00446,Male,44,Classic,"Western Cape",1139.06,1052.00
+M00447,Male,59,KeyCare,KZN,1559.28,1166.00
+M00448,Female,19,Essential,KZN,1650.74,1374.00
+M00449,Female,43,Classic,"Eastern Cape",930.20,669.00
+M00450,Male,34,Essential,"Eastern Cape",1781.41,1316.00
+M00451,Female,57,Essential,"Western Cape",630.47,479.00
+M00452,Male,50,Classic,"Western Cape",1820.01,1320.00
+M00453,Male,26,Essential,KZN,1286.39,1140.00
+M00454,Male,60,Classic,"Eastern Cape",764.82,764.00
+M00455,Female,71,Classic,"Western Cape",1093.63,871.00
+M00456,Male,65,Essential,"Eastern Cape",-52.49,-48.00
+M00457,Male,56,Classic,"Eastern Cape",1873.56,1436.00
+M00458,Female,46,Essential,"Western Cape",998.10,929.00
+M00459,Female,59,Essential,KZN,2128.95,1521.00
+M00460,Female,72,Classic,"Western Cape",1471.58,1232.00
+M00461,Female,43,Essential,"Western Cape",577.52,412.00
+M00462,Male,52,Classic,"Eastern Cape",730.13,611.00
+M00463,Male,67,KeyCare,"Western Cape",1015.58,783.00
+M00464,Male,42,Essential,KZN,478.60,442.00
+M00465,Male,41,KeyCare,"Western Cape",1487.76,1056.00
+M00466,Female,30,Essential,KZN,1542.21,1335.00
+M00467,Male,24,Classic,KZN,369.94,344.00
+M00468,Male,74,Essential,"Eastern Cape",1086.32,831.00
+M00469,Female,53,KeyCare,Gauteng,953.35,864.00
+M00470,Male,62,Essential,Gauteng,718.35,683.00
+M00471,Male,37,KeyCare,"Eastern Cape",777.45,584.00
+M00472,Male,18,KeyCare,"Western Cape",568.50,413.00
+M00473,Male,25,Classic,"Eastern Cape",1036.09,999.00
+M00474,Male,63,Classic,KZN,1587.87,1441.00
+M00475,Male,33,Essential,Gauteng,980.05,879.00
+M00476,Female,31,Essential,"Eastern Cape",828.56,599.00
+M00477,Female,29,KeyCare,"Western Cape",968.35,814.00
+M00478,Male,68,KeyCare,"Eastern Cape",2312.94,2243.00
+M00479,Male,40,Classic,Gauteng,1974.83,1670.00
+M00480,Female,32,Classic,"Eastern Cape",2255.63,2157.00
+M00481,Male,45,Essential,"Eastern Cape",1067.24,984.00
+M00482,Male,51,Classic,Gauteng,476.22,459.00
+M00483,Male,19,KeyCare,KZN,1422.48,1190.00
+M00484,Female,49,Essential,KZN,1587.65,1149.00
+M00485,Male,40,Essential,Gauteng,1900.22,1874.00
+M00486,Female,39,Classic,"Eastern Cape",1201.11,983.00
+M00487,Male,68,Essential,Gauteng,124.57,91.00
+M00488,Female,42,Essential,KZN,1289.53,919.00
+M00489,Female,39,Essential,UNKOWN,627.19,608.00
+M00490,Male,39,Classic,"Eastern Cape",1135.76,1116.00
+M00491,Female,66,Essential,KZN,874.94,819.00
+M00492,Male,69,KeyCare,"Eastern Cape",546.81,486.00
+M00493,Female,59,Classic,Gauteng,2049.28,1698.00
+M00494,Male,23,Classic,"Western Cape",1601.51,1306.00
+M00495,Male,32,Classic,Gauteng,1181.87,1083.00
+M00496,Female,71,Essential,"Western Cape",887.35,667.00
+M00497,Male,60,Essential,"Eastern Cape",1462.18,1053.00
+M00498,Male,54,Essential,"Eastern Cape",336.94,308.00
+M00499,Female,50,Classic,Gauteng,1819.52,1537.00
+M00500,Male,25,Classic,"Western Cape",723.61,649.00
+M00501,Male,70,Essential,"Western Cape",1939.99,1366.00
+M00502,Female,61,Essential,"Eastern Cape",418.08,338.00
+M00503,Female,61,KeyCare,Gauteng,1363.74,989.00
+M00504,Male,22,Classic,"Western Cape",1857.72,1738.00
+M00505,Male,56,Essential,"Eastern Cape",1591.83,1230.00
+M00506,Female,21,Essential,KZN,1141.63,1036.00
+M00507,Female,23,Essential,Gauteng,2371.35,2144.00
+M00508,Male,62,Essential,KZN,789.70,735.00
+M00509,Female,49,Essential,Gauteng,874.75,632.00
+M00510,Male,69,KeyCare,"Eastern Cape",1099.87,955.00
+M00511,Male,47,Classic,"Western Cape",1454.61,1063.00
+M00512,Male,64,Classic,"Western Cape",1441.13,1042.00
+M00513,Male,52,Essential,"Western Cape",8.35,8.00
+M00514,Male,72,Essential,Gauteng,2015.21,1694.00
+M00515,Female,57,Classic,"Eastern Cape",1855.16,1638.00
+M00516,Female,69,Classic,KZN,792.45,651.00
+M00517,Female,33,Classic,"Eastern Cape",908.74,637.00
+M00518,Female,30,KeyCare,KZN,1546.46,1432.00
+M00519,Male,67,Classic,Gauteng,670.01,642.00
+M00520,Male,59,Classic,Gauteng,465.78,395.00
+M00521,Male,47,Classic,KZN,1109.82,912.00
+M00522,Male,36,Classic,KZN,1202.11,999.00
+M00523,Female,34,Classic,KZN,2438.04,2215.00
+M00524,Male,73,Essential,"Eastern Cape",924.02,698.00
+M00525,Male,36,Classic,KZN,560.83,479.00
+M00526,Female,45,KeyCare,Gauteng,1864.37,1753.00
+M00527,Female,72,Classic,Gauteng,1891.87,1337.00
+M00528,Female,43,Essential,"Western Cape",832.05,717.00
+M00529,Uknown,54,KeyCare,KZN,353.60,288.00
+M00530,Male,43,Essential,"Eastern Cape",1087.34,950.00
+M00531,Male,70,Essential,"Eastern Cape",955.31,921.00
+M00532,Female,40,Classic,"Eastern Cape",1195.18,846.00
+M00533,Male,26,Classic,"Western Cape",707.81,554.00
+M00534,Male,29,Essential,UNKOWN,1101.91,860.00
+M00535,Male,70,KeyCare,"Eastern Cape",863.73,862.00
+M00536,Female,18,Essential,Gauteng,1712.50,1569.00
+M00537,Uknown,18,Essential,"Western Cape",598.31,456.00
+M00538,Female,64,Essential,KZN,989.32,915.00
+M00539,Male,51,Essential,KZN,1455.75,1412.00
+M00540,Male,49,Classic,KZN,873.06,667.00
+M00541,Uknown,71,Essential,"Eastern Cape",467.67,336.00
+M00542,Female,65,KeyCare,KZN,262.52,216.00
+M00543,Male,42,Classic,"Eastern Cape",311.11,245.00
+M00544,Female,57,Essential,"Western Cape",1239.62,1194.00
+M00545,Female,62,Classic,"Western Cape",1223.48,1044.00
+M00546,Female,70,Essential,"Eastern Cape",1714.79,1225.00
+M00547,Male,18,Classic,Gauteng,1174.55,889.00
+M00548,Male,33,Essential,KZN,792.37,759.00
+M00549,Male,56,Essential,KZN,1489.58,1142.00
+M00550,Uknown,22,Classic,KZN,1685.67,1346.00
+M00551,Female,39,Essential,"Eastern Cape",1320.34,1185.00
+M00552,Female,46,Essential,"Western Cape",1787.31,1620.00
+M00553,Female,72,KeyCare,KZN,1447.05,1433.00
+M00554,Male,20,Classic,"Western Cape",1615.15,1386.00
+M00555,Female,29,Classic,KZN,569.73,549.00
+M00556,Male,43,Classic,KZN,1222.34,863.00
+M00557,Female,33,KeyCare,"Eastern Cape",908.77,805.00
+M00558,Male,68,KeyCare,Gauteng,2053.35,1718.00
+M00559,Male,54,Essential,"Eastern Cape",1462.33,1017.00
+M00560,Female,39,KeyCare,KZN,540.90,444.00
+M00561,Female,74,Essential,KZN,431.73,350.00
+M00562,Female,46,Essential,Gauteng,479.26,446.00
+M00563,Female,31,Classic,"Western Cape",2135.88,2006.00
+M00564,Male,45,Essential,"Western Cape",1934.91,1554.00
+M00565,Female,22,Classic,KZN,785.83,711.00
+M00566,Female,64,KeyCare,"Western Cape",938.95,859.00
+M00567,Female,66,Essential,KZN,1226.69,912.00
+M00568,Male,47,Essential,Gauteng,219.85,195.00
+M00569,Male,63,Classic,Gauteng,1479.74,1272.00
+M00570,Uknown,69,Classic,KZN,1274.97,1241.00
+M00571,Male,22,Classic,UNKOWN,1148.53,921.00
+M00572,Female,29,Classic,"Eastern Cape",1001.12,758.00
+M00573,Male,33,Classic,"Eastern Cape",303.16,294.00
+M00574,Male,43,KeyCare,Gauteng,1271.64,967.00
+M00575,Male,43,Essential,KZN,741.47,733.00
+M00576,Male,65,Classic,KZN,1335.80,1176.00
+M00577,Female,38,Classic,Gauteng,1251.47,1173.00
+M00578,Female,56,Essential,"Western Cape",1684.18,1450.00
+M00579,Female,53,Essential,"Eastern Cape",1759.76,1733.00
+M00580,Male,50,Essential,"Western Cape",1308.31,1291.00
+M00581,Female,47,KeyCare,KZN,1513.35,1265.00
+M00582,Female,54,Essential,UNKOWN,820.10,591.00
+M00583,Female,40,KeyCare,"Western Cape",962.92,946.00
+M00584,Male,27,KeyCare,Gauteng,1470.56,1382.00
+M00585,Male,71,Classic,"Western Cape",1259.09,930.00
+M00586,Uknown,22,KeyCare,"Western Cape",1409.02,1302.00
+M00587,Uknown,53,Classic,"Eastern Cape",2016.48,1591.00
+M00588,Female,51,KeyCare,"Eastern Cape",1669.81,1017.00
+M00589,Female,69,Classic,"Western Cape",946.70,818.00
+M00590,Male,48,KeyCare,"Western Cape",826.50,762.00
+M00591,Male,27,KeyCare,KZN,819.01,751.00
+M00592,Female,36,KeyCare,"Eastern Cape",1078.90,857.00
+M00593,Male,49,Essential,"Eastern Cape",1461.69,1403.00
+M00594,Male,18,Classic,KZN,748.54,560.00
+M00595,Male,73,Classic,Gauteng,1514.04,1072.00
+M00596,Male,22,Essential,"Eastern Cape",1156.33,835.00
+M00597,Female,62,Classic,"Eastern Cape",768.95,701.00
+M00598,Male,21,Essential,Gauteng,1630.67,1516.00
+M00599,Male,33,Classic,"Eastern Cape",714.25,539.00
+M00600,Male,41,KeyCare,"Eastern Cape",1461.84,1192.00
+M00601,Male,33,Essential,Gauteng,1586.37,1512.00
+M00602,Female,72,KeyCare,Gauteng,1109.48,976.00
+M00603,Female,19,Classic,"Western Cape",113.34,110.00
+M00604,Male,66,KeyCare,KZN,759.87,588.00
+M00605,Uknown,45,KeyCare,KZN,1861.59,1398.00
+M00606,Male,49,Essential,Gauteng,71.71,70.00
+M00607,Male,44,Essential,Gauteng,1627.93,1268.00
+M00608,Male,37,Essential,"Eastern Cape",1803.18,1537.00
+M00609,Male,41,Classic,"Western Cape",720.87,564.00
+M00610,Female,29,Essential,"Western Cape",730.29,527.00
+M00611,Uknown,67,Classic,Gauteng,1093.50,1041.00
+M00612,Female,52,Classic,"Eastern Cape",1301.66,1006.00
+M00613,Female,50,Classic,"Eastern Cape",248.65,187.00
+M00614,Male,50,Classic,KZN,1281.47,1265.00
+M00615,Female,68,Classic,KZN,1160.59,858.00
+M00616,Female,60,Classic,"Eastern Cape",1099.75,999.00
+M00617,Female,54,KeyCare,KZN,2139.79,2126.00
+M00618,Female,29,Essential,Gauteng,1535.93,1294.00
+M00619,Female,20,KeyCare,"Eastern Cape",967.52,697.00
+M00620,Female,18,Essential,KZN,1386.30,1239.00
+M00621,Male,50,Classic,"Western Cape",1133.50,1095.00
+M00622,Female,57,Essential,"Eastern Cape",1655.66,1395.00
+M00623,Female,27,Essential,"Eastern Cape",1086.45,999.00
+M00624,Female,60,Classic,"Western Cape",1375.21,1249.00
+M00625,Male,61,Essential,Gauteng,1104.37,784.00
+M00626,Female,46,Classic,"Western Cape",1671.44,1235.00
+M00627,Male,30,Essential,"Eastern Cape",1525.19,1288.00
+M00628,Female,29,Essential,Gauteng,1189.38,901.00
+M00629,Male,48,Classic,KZN,1769.95,1515.00
+M00630,Male,63,Classic,KZN,1803.25,1630.00
+M00631,Female,19,Essential,KZN,1652.33,1568.00
+M00632,Female,68,Essential,"Eastern Cape",1189.42,919.00
+M00633,Male,67,Classic,UNKOWN,530.80,429.00
+M00634,Female,52,KeyCare,Gauteng,1481.32,1134.00
+M00635,Male,40,Classic,UNKOWN,401.99,346.00
+M00636,Male,34,Essential,Gauteng,1396.65,1212.00
+M00637,Male,43,KeyCare,"Eastern Cape",1997.81,1594.00
+M00638,Male,25,Classic,KZN,1171.90,1071.00
+M00639,Male,46,Classic,"Eastern Cape",1510.83,1347.00
+M00640,Female,43,Classic,"Western Cape",1311.16,957.00
+M00641,Male,27,Classic,"Eastern Cape",466.53,439.00
+M00642,Male,43,Classic,"Eastern Cape",832.60,669.00
+M00643,Uknown,51,Essential,"Western Cape",2464.17,2232.00
+M00644,Male,68,Classic,Gauteng,648.89,481.00
+M00645,Female,58,Essential,"Western Cape",743.92,736.00
+M00646,Female,24,KeyCare,"Western Cape",599.91,436.00
+M00647,Female,21,KeyCare,"Eastern Cape",1409.48,1058.00
+M00648,Male,70,Essential,Gauteng,1110.45,915.00
+M00649,Male,67,Classic,KZN,665.73,479.00
+M00650,Male,62,Essential,"Western Cape",1069.56,903.00
+M00651,Uknown,28,Essential,Gauteng,1071.11,949.00
+M00652,Male,46,Essential,"Western Cape",1011.45,810.00
+M00653,Female,73,Classic,"Western Cape",1611.85,1582.00
+M00654,Male,53,KeyCare,"Western Cape",1249.64,1048.00
+M00655,Female,42,Essential,"Western Cape",1278.22,1223.00
+M00656,Male,38,Classic,"Eastern Cape",822.97,580.00
+M00657,Male,74,Classic,Gauteng,1352.71,1070.00
+M00658,Male,53,Essential,Gauteng,1298.36,920.00
+M00659,Female,27,KeyCare,Gauteng,1048.27,853.00
+M00660,Female,54,Essential,"Western Cape",1507.40,1252.00
+M00661,Male,26,Essential,"Eastern Cape",1846.00,1731.00
+M00662,Male,41,Classic,"Western Cape",787.01,730.00
+M00663,Female,52,Essential,"Western Cape",2067.78,1704.00
+M00664,Female,66,Essential,Gauteng,1673.16,1615.00
+M00665,Female,52,Classic,"Western Cape",1005.95,920.00
+M00666,Male,65,Classic,KZN,1745.99,1337.00
+M00667,Female,53,Essential,"Western Cape",495.32,472.00
+M00668,Male,35,Classic,KZN,1268.94,1069.00
+M00669,Female,66,Essential,"Western Cape",1787.18,1532.00
+M00670,Male,56,Classic,"Eastern Cape",1075.11,944.00
+M00671,Female,49,Classic,"Eastern Cape",1470.12,1318.00
+M00672,Female,41,Classic,Gauteng,1092.20,1007.00
+M00673,Female,40,KeyCare,"Western Cape",1008.87,924.00
+M00674,Female,49,KeyCare,KZN,1099.43,1028.00
+M00675,Female,54,KeyCare,KZN,1236.04,1208.00
+M00676,Male,29,Essential,"Western Cape",948.98,733.00
+M00677,Female,66,Classic,KZN,1601.19,1391.00
+M00678,Female,72,Essential,"Eastern Cape",1310.07,934.00
+M00679,Female,30,Essential,KZN,2295.40,1809.00
+M00680,Male,40,KeyCare,Gauteng,1080.29,960.00
+M00681,Female,42,Classic,"Eastern Cape",1692.56,1640.00
+M00682,Male,52,Essential,"Eastern Cape",949.94,897.00
+M00683,Female,58,Classic,"Eastern Cape",960.94,898.00
+M00684,Female,47,Classic,"Western Cape",1838.33,1336.00
+M00685,Male,34,Essential,"Western Cape",850.50,676.00
+M00686,Female,66,Essential,"Eastern Cape",1057.90,846.00
+M00687,Male,37,Classic,"Western Cape",986.43,739.00
+M00688,Male,65,Classic,KZN,1710.47,1413.00
+M00689,Female,42,Essential,"Western Cape",687.16,615.00
+M00690,Male,39,Essential,"Western Cape",1699.54,1244.00
+M00691,Female,30,KeyCare,"Eastern Cape",1270.83,1250.00
+M00692,Female,36,KeyCare,Gauteng,451.74,342.00
+M00693,Male,66,Essential,Gauteng,1422.06,1351.00
+M00694,Uknown,53,Classic,Gauteng,1243.73,911.00
+M00695,Male,29,Essential,KZN,798.22,774.00
+M00696,Male,58,Essential,"Western Cape",1017.33,718.00
+M00697,Female,36,Classic,Gauteng,511.22,421.00
+M00698,Female,29,KeyCare,UNKOWN,909.29,713.00
+M00699,Male,26,Classic,Gauteng,-45.01,-39.00
+M00700,Female,24,KeyCare,Gauteng,2167.73,1831.00
+M00701,Female,45,Essential,"Western Cape",1386.50,1200.00
+M00702,Female,31,Essential,"Western Cape",986.37,692.00
+M00703,Female,48,Essential,"Western Cape",908.91,769.00
+M00704,Male,69,KeyCare,KZN,891.28,645.00
+M00705,Male,36,Essential,KZN,974.24,737.00
+M00706,Female,64,Essential,Gauteng,1713.12,1289.00
+M00707,Male,33,Classic,"Western Cape",1512.80,1378.00
+M00708,Male,70,Essential,Gauteng,1695.36,1387.00
+M00709,Male,22,Classic,"Eastern Cape",1958.11,1552.00
+M00710,Female,52,Essential,"Eastern Cape",1208.20,1156.00
+M00711,Female,29,Essential,"Western Cape",1801.51,1778.00
+M00712,Female,42,Essential,"Western Cape",862.09,605.00
+M00713,Male,69,Classic,"Eastern Cape",628.13,457.00
+M00714,Female,38,Classic,"Western Cape",504.12,480.00
+M00715,Female,53,Essential,KZN,1307.29,1255.00
+M00716,Male,70,Classic,KZN,143.63,138.00
+M00717,Female,40,Classic,UNKOWN,1702.48,1575.00
+M00718,Female,33,Classic,"Eastern Cape",1812.35,1493.00
+M00719,Male,74,KeyCare,Gauteng,1238.20,946.00
+M00720,Male,56,Essential,"Western Cape",1476.23,1383.00
+M00721,Male,62,Classic,"Western Cape",1097.45,904.00
+M00722,Female,70,Classic,Gauteng,1925.26,1921.00
+M00723,Female,59,Classic,"Western Cape",771.28,562.00
+M00724,Female,56,Essential,Gauteng,225.08,190.00
+M00725,Male,31,Essential,"Eastern Cape",956.80,869.00
+M00726,Male,48,Classic,KZN,2495.01,2425.00
+M00727,Female,22,Classic,"Eastern Cape",1406.57,1044.00
+M00728,Female,52,Classic,KZN,1005.21,845.00
+M00729,Male,40,Essential,Gauteng,1910.13,1692.00
+M00730,Male,46,Essential,KZN,-126.60,-122.00
+M00731,Male,60,Classic,"Eastern Cape",1724.65,1422.00
+M00732,Male,28,Classic,KZN,1479.81,1182.00
+M00733,Female,35,Classic,Gauteng,1297.52,1184.00
+M00734,Male,64,KeyCare,KZN,1672.76,1648.00
+M00735,Female,29,Classic,"Western Cape",1523.35,1158.00
+M00736,Female,26,Essential,"Eastern Cape",1091.39,916.00
+M00737,Female,27,Essential,"Western Cape",1285.60,977.00
+M00738,Male,61,Classic,Gauteng,825.32,820.00
+M00739,Male,34,Classic,KZN,2045.68,1608.00
+M00740,Male,55,Classic,"Western Cape",973.18,887.00
+M00741,Male,24,Essential,"Western Cape",1496.82,1324.00
+M00742,Female,63,Essential,KZN,701.70,673.00
+M00743,Male,30,Essential,KZN,968.83,753.00
+M00744,Male,57,Essential,"Eastern Cape",1867.62,1608.00
+M00745,Female,59,Classic,"Western Cape",1822.75,1786.00
+M00746,Male,26,KeyCare,"Western Cape",654.71,594.00
+M00747,Female,67,Essential,Gauteng,832.21,718.00
+M00748,Female,44,Classic,"Eastern Cape",1974.89,1659.00
+M00749,Female,19,KeyCare,Gauteng,2330.68,2141.00
+M00750,Female,22,Essential,"Western Cape",441.32,314.00
+M00751,Female,46,Essential,Gauteng,728.23,714.00
+M00752,Female,54,Essential,"Western Cape",1227.60,1017.00
+M00753,Female,55,KeyCare,"Western Cape",667.99,506.00
+M00754,Female,36,Essential,Gauteng,892.01,858.00
+M00755,Male,25,Classic,Gauteng,1146.82,855.00
+M00756,Uknown,65,Classic,UNKOWN,764.38,754.00
+M00757,Male,62,KeyCare,KZN,785.23,769.00
+M00758,Male,18,Classic,UNKOWN,1415.43,1212.00
+M00759,Female,39,Classic,"Western Cape",1415.38,1172.00
+M00760,Male,69,Essential,Gauteng,976.04,753.00
+M00761,Female,34,Essential,"Eastern Cape",1607.02,1197.00
+M00762,Male,24,Essential,"Western Cape",878.03,623.00
+M00763,Male,42,KeyCare,"Eastern Cape",1273.57,1024.00
+M00764,Male,62,Classic,Gauteng,1730.88,1569.00
+M00765,Female,21,Classic,"Western Cape",462.98,437.00
+M00766,Male,53,Classic,"Eastern Cape",1607.91,1598.00
+M00767,Female,23,KeyCare,"Eastern Cape",351.69,251.00
+M00768,Female,48,Essential,KZN,1174.53,868.00
+M00769,Uknown,36,Classic,KZN,777.23,733.00
+M00770,Male,61,KeyCare,KZN,1178.66,1096.00
+M00771,Male,71,KeyCare,"Western Cape",1793.74,1659.00
+M00772,Female,56,KeyCare,Gauteng,908.54,868.00
+M00773,Male,44,KeyCare,Gauteng,651.62,612.00
+M00774,Uknown,27,Classic,KZN,1486.39,1467.00
+M00775,Female,43,Essential,KZN,2166.40,1728.00
+M00776,Male,36,Essential,KZN,1328.49,1182.00
+M00777,Male,56,KeyCare,"Eastern Cape",882.21,724.00
+M00778,Female,20,Essential,KZN,1241.08,1143.00
+M00779,Female,62,Essential,"Eastern Cape",1706.71,1255.00
+M00780,Female,30,Essential,Gauteng,1051.48,1017.00
+M00781,Male,67,Classic,"Western Cape",529.30,478.00
+M00782,Female,45,Essential,"Western Cape",1106.08,1042.00
+M00783,Male,37,KeyCare,"Western Cape",1413.79,1046.00
+M00784,Female,45,KeyCare,"Western Cape",485.43,442.00
+M00785,Uknown,25,Classic,"Eastern Cape",1108.09,1016.00
+M00786,Male,58,Classic,"Eastern Cape",1437.38,1110.00
+M00787,Female,56,Classic,KZN,841.81,678.00
+M00788,Male,18,Essential,"Eastern Cape",1085.24,975.00
+M00789,Male,20,KeyCare,KZN,562.83,549.00
+M00790,Female,30,Classic,KZN,1229.81,900.00
+M00791,Male,45,Essential,"Western Cape",1104.70,1033.00
+M00792,Male,74,KeyCare,"Eastern Cape",1601.70,1500.00
+M00793,Female,66,Essential,"Eastern Cape",1542.69,1205.00
+M00794,Male,42,Essential,KZN,970.12,815.00
+M00795,Male,73,Essential,KZN,1337.34,1217.00
+M00796,Male,50,Essential,Gauteng,1984.24,1979.00
+M00797,Female,55,Classic,Gauteng,383.91,337.00
+M00798,Male,70,Essential,KZN,483.43,389.00
+M00799,Female,23,Essential,Gauteng,1776.38,1651.00
+M00800,Female,61,KeyCare,UNKOWN,2240.45,2051.00
+M00801,Male,62,Essential,KZN,866.10,750.00
+M00802,Male,49,Essential,KZN,1142.04,929.00
+M00803,Male,62,Classic,"Eastern Cape",957.19,768.00
+M00804,Female,64,Essential,KZN,766.67,723.00
+M00805,Male,38,Classic,KZN,2093.27,1843.00
+M00806,Male,33,Classic,"Western Cape",891.61,741.00
+M00807,Male,71,Essential,"Eastern Cape",912.62,706.00
+M00808,Male,38,KeyCare,"Eastern Cape",1275.89,1207.00
+M00809,Male,28,Classic,"Eastern Cape",1901.91,1630.00
+M00810,Female,54,Essential,"Western Cape",1074.18,970.00
+M00811,Female,53,KeyCare,KZN,938.35,690.00
+M00812,Male,52,Classic,"Eastern Cape",1698.34,1636.00
+M00813,Male,36,Essential,"Eastern Cape",-346.00,-269.00
+M00814,Male,37,Essential,Gauteng,1328.60,1257.00
+M00815,Male,74,Essential,"Eastern Cape",1474.51,1265.00
+M00816,Female,35,Classic,KZN,1082.77,804.00
+M00817,Male,64,Classic,KZN,1721.31,1548.00
+M00818,Female,58,Essential,Gauteng,856.24,847.00
+M00819,Female,66,Essential,"Eastern Cape",2262.76,1877.00
+M00820,Male,31,Classic,"Eastern Cape",957.78,777.00
+M00821,Female,32,Essential,"Eastern Cape",1591.99,1396.00
+M00822,Female,48,Classic,"Western Cape",922.45,774.00
+M00823,Female,18,Essential,"Eastern Cape",1352.67,954.00
+M00824,Female,70,Classic,KZN,778.81,730.00
+M00825,Male,71,KeyCare,KZN,906.94,783.00
+M00826,Male,71,Classic,"Western Cape",1375.69,1036.00
+M00827,Female,20,Classic,"Western Cape",749.55,668.00
+M00828,Male,33,Classic,"Eastern Cape",966.06,836.00
+M00829,Male,40,Classic,Gauteng,1553.34,1172.00
+M00830,Male,74,KeyCare,"Western Cape",1395.87,1313.00
+M00831,Male,28,KeyCare,"Western Cape",1234.01,1007.00
+M00832,Male,29,Classic,"Eastern Cape",1275.96,1168.00
+M00833,Female,27,Essential,"Eastern Cape",932.65,700.00
+M00834,Male,49,Essential,"Western Cape",872.69,611.00
+M00835,Male,33,KeyCare,Gauteng,608.75,514.00
+M00836,Male,25,Essential,"Western Cape",1011.24,733.00
+M00837,Uknown,55,Classic,"Eastern Cape",1382.50,1007.00
+M00838,Uknown,29,Essential,"Eastern Cape",1529.17,1443.00
+M00839,Uknown,41,Essential,"Western Cape",217.81,156.00
+M00840,Female,45,Classic,Gauteng,2007.64,1482.00
+M00841,Female,70,Essential,"Western Cape",2138.70,1606.00
+M00842,Male,25,Classic,"Western Cape",1864.49,1401.00
+M00843,Female,45,Essential,"Eastern Cape",748.31,658.00
+M00844,Male,53,Classic,Gauteng,635.27,575.00
+M00845,Male,43,Essential,KZN,767.68,717.00
+M00846,Male,25,Essential,UNKOWN,1244.88,1038.00
+M00847,Male,67,Essential,"Western Cape",1636.95,1596.00
+M00848,Male,45,Classic,"Western Cape",1033.00,895.00
+M00849,Female,45,Essential,"Western Cape",1214.91,858.00
+M00850,Female,54,Essential,Gauteng,1741.48,1314.00
+M00851,Female,58,Essential,"Eastern Cape",1000.02,819.00
+M00852,Uknown,53,Essential,UNKOWN,1611.44,1169.00
+M00853,Male,44,Essential,"Western Cape",1013.44,758.00
+M00854,Female,71,KeyCare,Gauteng,1833.91,1624.00
+M00855,Male,34,Classic,KZN,971.63,971.00
+M00856,Uknown,26,KeyCare,KZN,765.05,747.00
+M00857,Male,50,Essential,"Eastern Cape",1090.44,950.00
+M00858,Male,70,Classic,"Eastern Cape",522.77,402.00
+M00859,Female,37,Classic,"Western Cape",1069.66,832.00
+M00860,Male,30,Classic,Gauteng,1656.53,1391.00
+M00861,Male,45,Essential,"Western Cape",1050.77,883.00
+M00862,Uknown,65,Essential,"Eastern Cape",1578.92,1257.00
+M00863,Uknown,46,Essential,Gauteng,-135.37,-98.00
+M00864,Female,30,Essential,Gauteng,1350.11,1177.00
+M00865,Female,63,Essential,"Eastern Cape",864.46,740.00
+M00866,Female,52,Classic,KZN,837.90,724.00
+M00867,Male,23,Classic,KZN,1980.01,1880.00
+M00868,Male,35,Essential,Gauteng,790.16,574.00
+M00869,Male,68,Classic,"Western Cape",535.40,474.00
+M00870,Female,22,Classic,KZN,1627.36,1154.00
+M00871,Male,64,Essential,"Western Cape",2280.28,2008.00
+M00872,Female,42,Essential,KZN,1545.87,1324.00
+M00873,Female,19,KeyCare,KZN,809.19,803.00
+M00874,Male,27,KeyCare,"Western Cape",2225.01,1723.00
+M00875,Female,73,Essential,"Eastern Cape",656.14,529.00
+M00876,Male,47,Essential,KZN,947.46,749.00
+M00877,Male,67,Essential,KZN,1519.27,1069.00
+M00878,Male,62,Essential,"Western Cape",763.96,615.00
+M00879,Male,22,Classic,"Eastern Cape",603.42,503.00
+M00880,Male,72,Essential,KZN,1786.65,1691.00
+M00881,Female,73,KeyCare,KZN,1156.16,1063.00
+M00882,Female,50,Classic,"Eastern Cape",1488.76,1122.00
+M00883,Female,71,Essential,KZN,974.88,923.00
+M00884,Male,18,Essential,"Eastern Cape",909.55,849.00
+M00885,Male,35,Classic,"Eastern Cape",1373.49,1229.00
+M00886,Male,49,Classic,"Western Cape",1654.31,1344.00
+M00887,Female,64,Classic,Gauteng,1393.57,1170.00
+M00888,Male,66,Classic,"Eastern Cape",270.79,220.00
+M00889,Female,28,Classic,"Western Cape",482.97,437.00
+M00890,Female,38,KeyCare,Gauteng,1689.85,1644.00
+M00891,Male,43,Classic,KZN,1198.66,1064.00
+M00892,Male,42,Essential,Gauteng,1882.59,1360.00
+M00893,Female,39,Classic,"Eastern Cape",896.46,870.00
+M00894,Male,44,KeyCare,"Eastern Cape",1510.83,1357.00
+M00895,Female,66,Classic,"Eastern Cape",1451.88,1417.00
+M00896,Male,30,Essential,"Eastern Cape",1018.89,926.00
+M00897,Uknown,50,KeyCare,"Eastern Cape",1159.28,916.00
+M00898,Female,51,KeyCare,"Western Cape",522.68,476.00
+M00899,Male,58,Classic,"Eastern Cape",1195.02,995.00
+M00900,Female,52,KeyCare,"Western Cape",2203.89,1889.00
+M00901,Male,18,Essential,KZN,1242.67,1237.00
+M00902,Female,38,Essential,"Eastern Cape",1204.51,1011.00
+M00903,Female,65,Classic,"Eastern Cape",1202.82,921.00
+M00904,Male,72,Classic,Gauteng,2095.25,1732.00
+M00905,Female,23,Essential,KZN,2160.16,1712.00
+M00906,Male,45,Essential,"Eastern Cape",1192.71,1096.00
+M00907,Male,34,Essential,"Eastern Cape",1641.77,1380.00
+M00908,Uknown,22,Essential,KZN,1449.72,1422.00
+M00909,Female,48,Essential,"Western Cape",1159.44,888.00
+M00910,Female,22,Classic,"Eastern Cape",1481.38,1154.00
+M00911,Male,55,Essential,Gauteng,1495.89,1275.00
+M00912,Male,20,Classic,"Eastern Cape",2526.81,2293.00
+M00913,Female,70,Essential,Gauteng,1017.95,969.00
+M00914,Male,40,Essential,Gauteng,297.47,239.00
+M00915,Male,54,KeyCare,"Eastern Cape",1779.31,1395.00
+M00916,Female,70,Classic,"Eastern Cape",1508.88,1157.00
+M00917,Male,54,Classic,Gauteng,1915.91,1629.00
+M00918,Female,27,Classic,KZN,923.20,796.00
+M00919,Male,27,Classic,KZN,529.74,514.00
+M00920,Female,36,Classic,"Eastern Cape",1747.25,1475.00
+M00921,Male,34,KeyCare,"Western Cape",1962.78,1844.00
+M00922,Male,38,Classic,KZN,2110.07,1575.00
+M00923,Female,31,Classic,"Eastern Cape",2104.41,1860.00
+M00924,Male,26,Essential,KZN,328.97,259.00
+M00925,Female,63,Essential,"Western Cape",1287.44,1048.00
+M00926,Uknown,18,Essential,"Eastern Cape",553.99,446.00
+M00927,Female,68,Classic,"Western Cape",645.31,633.00
+M00928,Female,62,Essential,"Eastern Cape",1501.49,1301.00
+M00929,Female,30,Classic,"Western Cape",841.24,646.00
+M00930,Female,21,Classic,KZN,1844.31,1485.00
+M00931,Male,18,KeyCare,KZN,525.09,484.00
+M00932,Male,66,Classic,"Western Cape",1314.46,1238.00
+M00933,Female,57,Essential,"Western Cape",999.77,973.00
+M00934,Uknown,49,Essential,"Western Cape",499.79,395.00
+M00935,Female,51,Classic,"Eastern Cape",1487.07,1135.00
+M00936,Male,45,KeyCare,KZN,2114.96,2079.00
+M00937,Male,48,Classic,"Eastern Cape",1052.53,745.00
+M00938,Uknown,25,Essential,KZN,2606.89,2253.00
+M00939,Male,56,KeyCare,Gauteng,1837.58,1407.00
+M00940,Female,43,Essential,"Eastern Cape",880.95,772.00
+M00941,Female,51,KeyCare,KZN,1587.05,1227.00
+M00942,Female,71,Classic,KZN,1068.24,804.00
+M00943,Male,71,Essential,"Eastern Cape",1595.58,1364.00
+M00944,Male,20,Classic,"Eastern Cape",1366.27,1232.00
+M00945,Male,67,Essential,KZN,856.95,810.00
+M00946,Female,29,KeyCare,"Eastern Cape",698.36,584.00
+M00947,Female,18,Classic,"Western Cape",1117.09,821.00
+M00948,Male,71,Essential,UNKOWN,1156.32,922.00
+M00949,Female,61,Classic,"Eastern Cape",462.08,329.00
+M00950,Male,22,Essential,"Eastern Cape",904.28,865.00
+M00951,Male,47,Essential,KZN,857.11,664.00
+M00952,Female,47,KeyCare,"Western Cape",1218.87,1130.00
+M00953,Male,74,Essential,Gauteng,1453.74,1115.00
+M00954,Female,34,Classic,Gauteng,1654.43,1566.00
+M00955,Male,65,Classic,"Western Cape",942.25,797.00
+M00956,Female,64,Classic,"Western Cape",1881.96,1757.00
+M00957,Female,40,Classic,"Western Cape",820.53,786.00
+M00958,Female,32,Classic,KZN,832.85,813.00
+M00959,Male,54,KeyCare,Gauteng,675.40,562.00
+M00960,Male,38,Essential,"Western Cape",1232.45,1088.00
+M00961,Female,31,Essential,KZN,1798.22,1584.00
+M00962,Female,19,Classic,Gauteng,1465.11,1439.00
+M00963,Male,28,KeyCare,"Eastern Cape",1733.56,1283.00
+M00964,Male,68,Essential,KZN,1734.69,1458.00
+M00965,Male,56,Classic,Gauteng,1280.72,1083.00
+M00966,Female,55,Essential,KZN,985.28,878.00
+M00967,Male,51,Essential,Gauteng,528.84,430.00
+M00968,Male,55,Classic,Gauteng,461.05,338.00
+M00969,Female,67,Essential,"Eastern Cape",865.80,730.00
+M00970,Male,51,Essential,KZN,1933.55,1925.00
+M00971,Male,35,Classic,"Western Cape",1385.35,990.00
+M00972,Male,47,KeyCare,"Eastern Cape",622.95,441.00
+M00973,Female,32,KeyCare,"Eastern Cape",1418.16,1213.00
+M00974,Female,44,Essential,Gauteng,2171.20,2063.00
+M00975,Female,68,Essential,"Western Cape",429.08,313.00
+M00976,Female,51,Essential,KZN,5.02,4.00
+M00977,Female,69,Essential,"Western Cape",2327.85,1710.00
+M00978,Female,74,Essential,"Western Cape",1200.97,891.00
+M00979,Female,55,Classic,"Western Cape",1139.04,867.00
+M00980,Uknown,50,Essential,"Western Cape",810.24,570.00
+M00981,Male,41,KeyCare,"Western Cape",839.13,731.00
+M00982,Female,32,Essential,Gauteng,1220.23,1113.00
+M00983,Male,47,Classic,Gauteng,1459.79,1364.00
+M00984,Male,72,Essential,"Eastern Cape",1523.34,1158.00
+M00985,Female,59,Classic,Gauteng,2046.15,1683.00
+M00986,Male,68,Classic,"Eastern Cape",150.33,126.00
+M00987,Male,34,Classic,"Eastern Cape",624.82,528.00
+M00988,Male,22,Classic,KZN,339.99,339.00
+M00989,Male,46,Essential,"Western Cape",1226.36,943.00
+M00990,Male,21,Essential,Gauteng,595.16,451.00
+M00991,Female,27,Classic,KZN,997.97,836.00
+M00992,Female,73,KeyCare,Gauteng,1583.05,1174.00
+M00993,Female,34,KeyCare,"Eastern Cape",1353.46,1113.00
+M00994,Male,27,KeyCare,Gauteng,1439.91,1273.00
+M00995,Female,34,Classic,"Western Cape",1019.34,800.00
+M00996,Male,37,Essential,UNKOWN,1035.17,998.00
+M00997,Male,41,KeyCare,"Eastern Cape",1333.90,1163.00
+M00998,Male,22,Essential,KZN,974.88,822.00
+M00999,Male,51,Classic,"Western Cape",1096.65,849.00
+M01000,Female,23,Classic,"Eastern Cape",1219.32,1139.00

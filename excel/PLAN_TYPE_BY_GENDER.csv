@@ -1,0 +1,10 @@
+GENDER,PLAN_TYPE,MEMBERCOUNT
+Male,Essential,196
+Female,KeyCare,97
+Male,KeyCare,94
+Female,Essential,193
+Male,Classic,207
+Female,Classic,163
+Uknown,KeyCare,7
+Uknown,Essential,26
+Uknown,Classic,17
